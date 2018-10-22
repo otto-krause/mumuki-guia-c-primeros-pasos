@@ -12,9 +12,10 @@ Scanf guarda un valor ingresado por teclado dentro de la variable entera num.
 
 Si queremos ingresar otro tipo de datos deberemos variar el primer valor que pasamos dentro del scanf (que se encuentra entre comillas).
 > Por ejemplo:
-* Para enteros usaremos "%d".
-* Para cadenas usaremos "%s". 
-* Para variables de punto flotante usaremos "%f"
+
+> Para enteros usaremos **"%d"**.
+> Para cadenas usaremos **"%s"**. 
+> Para punto flotante usaremos **"%f"**.
 
 Para imprimir valores por pantalla utilizaremos la función **printf.**
 

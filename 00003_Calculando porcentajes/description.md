@@ -1,0 +1,3 @@
+¡Continuamos avanzando!
+En este caso te vamos a pedir que calcules porcentajes a traves de la regla de tres simple.
+La idea es ayudar a la jefa de recursos humanos de nuestra empresa,  que desea saber cuál es el porcentaje de hombres y mujeres que han enviado su curriculum postulándose para un determinado puesto. Para calcular esto deberas ingresar cuantos hombres enviaron su C.V. y la cantidad total de postulaciones recibidas.

@@ -1,6 +1,5 @@
 Hola! Vamos a comenzar con nuestro primeros ejercicios en C.
-
-A continucacion te presentamos dos funciones.
+A continuacion te presentamos dos funciones.
 
 Para ingresar números utilizaremos la función **scanf.**
 Ejemplo:

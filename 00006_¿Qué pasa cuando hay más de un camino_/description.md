@@ -24,4 +24,34 @@ else
 También contamos con la sentencia **switch** en caso de que la variables a utilizar sean enteras o caracteres.
 > **Recordemos que la sentencia switch solo funciona con enteros y caracteres buscando igualdades en una lista de posibilidades**
 
-
+```C
+switch (i)
+{
+	case 1:
+		printf("Lunes\n");
+		break;
+	case 2:
+		printf("Martes\n");
+		break;
+	case 3:
+		printf("Miércoles\n");
+		break;
+	case 4:
+		printf("Jueves\n");
+		break;
+	case 5:
+		printf("Viernes\n");
+		break;
+	case 6:
+		printf("Sábado\n");
+		break;
+	case 7:
+		printf("Domingo\n");
+		break;
+	default:
+		printf("Opción no válida\n");
+		break;
+}
+```	
+> **Aclaramos que la etiqueta default se utiliza opcionalmente para los casos donde no se encuentra coincidencia<br>
+Si no recordas que significa "\n" deberás leer la guia introductoria.**

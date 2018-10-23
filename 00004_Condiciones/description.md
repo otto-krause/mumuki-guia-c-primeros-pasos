@@ -3,10 +3,13 @@ Pero...<br>¿Qué pasa cuando el resultado depende de una condición?<br> Para e
 En este caso nos vamoa concentrar solo en esta primera opción, viendo mas adelantes los detalles de las demás.<br>
 Para poder hacer que el programa decida por uno u otro camino tenemos la sentencia **if** cuya utilización es la siguiente:<br>
 ``` C
-printf("El valor de la variable es %d",num);
+if (A>B)
+{
+printf("La variable mayor es A porque vale %d",A);
+}
 ```
-Código
-```
+
+
 
 
 

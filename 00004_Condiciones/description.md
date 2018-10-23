@@ -4,6 +4,9 @@ En este caso nos vamoa concentrar solo en esta primera opción, viendo mas adela
 Para poder hacer que el programa decida por uno u otro camino tenemos la sentencia **if** cuya utilización es la siguiente:<br>
 ```C
 if(a>b);
+{
+  printf("El variable mayor es a con un valor de %d",num);
+}
 ```
 
 

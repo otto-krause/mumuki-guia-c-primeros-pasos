@@ -1,4 +1,4 @@
-Hola! Vamos a comenzar con nuestro primeros ejercicios en C.
+¡Hola! Vamos a comenzar con nuestros primeros ejercicios en C.
 
 A continuacion te presentamos dos funciones.
 

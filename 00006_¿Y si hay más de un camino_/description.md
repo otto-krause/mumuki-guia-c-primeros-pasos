@@ -54,4 +54,4 @@ switch (i)
 }
 ```	
 > **Aclaramos que la etiqueta default se utiliza opcionalmente para los casos donde no se encuentra coincidencia<br>
-Si no recordas que significa "\n" deberás leer la guia introductoria.**
+Si no recordás que significa "\n" deberás leer la guía introductoria.**

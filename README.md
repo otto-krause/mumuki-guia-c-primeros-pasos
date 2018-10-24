@@ -3,7 +3,7 @@
 
 This content is distributed under Creative Commons License Share-Alike, 4.0. [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0)
 
-Copyright Gustavo Javier Gatamora, Gabriel Hernán Spisso.- and contributors
+Copyright Gustavo Gatamora, Gabriel Spisso.- and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history

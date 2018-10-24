@@ -1,1 +1,1 @@
-Ahora que ya conocemos los dos tipos de estructuras de decisión que utilizaremos, vamos a proponerles resolver el siguiente ejercicio de las dos maneras.<br>
+Ahora que ya conocemos los dos tipos de estructuras de decisión que utilizaremos, vamos a proponerles resolver el siguiente ejercicio de las dos formas que desarrollamos en el punto 6 (con sentencia switch y anidando if).<br>

@@ -1,0 +1,1 @@
+Ahora que ya conocemos los dos tipos de estructuras de decisión que utilizaremos, vamos a proponerles resolver el siguiente ejercicio de las dos maneras.<br>

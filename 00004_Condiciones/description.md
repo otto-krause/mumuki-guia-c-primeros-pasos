@@ -3,7 +3,7 @@ Pero...<br>¿Qué pasa cuando el resultado depende de una condición?<br> Para e
 En este caso nos vamos a concentrar solo en esta primera opción, viendo más adelante los detalles de las demás.<br>
 Para poder hacer que el programa decida por uno u otro camino tenemos la sentencia **if** cuya sintaxis es la siguiente:<br>
 
-```C
+``` c
 if (A>B)
 {
   printf("La variable mayor es A porque vale %d",A);

@@ -3,7 +3,7 @@ Para resolver estos casos podemos utilizar lo que se coloquialmente  se conoce c
 Esto consiste en introducir otra sentencia **if**, abriendo otro camino dentro de un mismo **if** o un **else**.<br>
 Ejemplo:<br>
 
-```C
+``` c
 if (A<8)
 {
   printf("La variable A es menor a 8");
@@ -24,7 +24,7 @@ else
 También contamos con la sentencia **switch** en caso de que la variables a utilizar sean enteras o caracteres.
 > **Recordemos que la sentencia switch solo funciona con enteros y caracteres buscando igualdades en una lista de posibilidades**
 
-```C
+```c
 switch (i)
 {
 	case 1:

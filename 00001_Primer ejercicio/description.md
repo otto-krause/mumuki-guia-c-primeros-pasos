@@ -5,7 +5,7 @@ A continuacion te presentamos dos funciones.
 Para ingresar números utilizaremos la función **scanf.**
 Ejemplo:
 
-```C
+``` c
 int num;
 scanf("%d",&num);
 ```

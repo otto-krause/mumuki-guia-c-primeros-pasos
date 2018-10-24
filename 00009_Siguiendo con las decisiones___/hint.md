@@ -1,0 +1,1 @@
+> **Podés usar operadores lógicos si te resulta más fácil, recordá que toda la información sobre este tema está en la guía introductoria.**

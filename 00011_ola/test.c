@@ -1,5 +1,3 @@
-describe ("algo") {
-  it ("Descripción del ejemplo") {
-    should_bool(miFuncion()) be equal to(true);
-  } end
-} end
+test "pepita tiene un atributo ciudad" {
+  assert.that(pepita.toString().contains("ciudad")) 
+}

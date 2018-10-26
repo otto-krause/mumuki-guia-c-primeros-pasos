@@ -1,0 +1,3 @@
+bool miFuncion(){
+  return true
+}

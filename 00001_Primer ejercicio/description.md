@@ -1,6 +1,6 @@
 ¡Hola! Vamos a comenzar con nuestros primeros ejercicios en C.
 
-A continuacion te presentamos dos funciones.
+A continuación te presentamos dos funciones.
 
 Para ingresar números utilizaremos la función **scanf.**
 Ejemplo:
@@ -16,11 +16,11 @@ Si queremos ingresar otro tipo de datos deberemos variar el primer valor que pas
 > **Por ejemplo:**<br>
 > Para enteros usaremos **"%d"**.<br>
 > Para cadenas usaremos **"%s"**.<br> 
-> Para punto flotante usaremos **"%f"**.<br>
+> Para punto flotante (números decimales) usaremos **"%f"**.<br>
 
 Para imprimir valores por pantalla utilizaremos la función **printf.**
 
-```C
+``` c
 printf("El valor de la variable es %d",num);
 ```
 
